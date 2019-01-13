@@ -1,5 +1,5 @@
 # 2ª Sessão de POO - 2018
-Sessão de estudo organizada pelo NEI-AAUAv no dia 22 de março de 2018.
+Sessão de estudo organizada pelo NEI-AAUAv no dia 28 de maio de 2018.
 
 ## Download and Clone
 * Clonar repositório: `git clone https://github.com/NEI-AAUAV/2_Sessao_POO2018`
